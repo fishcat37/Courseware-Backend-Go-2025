@@ -1,4 +1,4 @@
-# API 网关：Nginx 与 Traefik 实战指南
+# API 网关：Nginx 与 Traefik 配置与使用
 
 本节课聚焦 API 网关的核心概念，并通过 Nginx 和 Traefik 两个实际方案演示：Host 分流、路径分流、多实例负载均衡以及代理头透传。
 
